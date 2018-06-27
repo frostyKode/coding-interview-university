@@ -486,7 +486,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **How computers process a program:**
+- [X] **How computers process a program:**
     - [X] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
     - [X] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
     - [X] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
